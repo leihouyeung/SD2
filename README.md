@@ -3,7 +3,6 @@
  
 ## Training process 
 
-### SD<sup>2</sup>  is a method of transductive learning, thus it only has training process
 <br>
 
 Extract the dropout genes and generate pseudo-ST spots
