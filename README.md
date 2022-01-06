@@ -1,5 +1,5 @@
 # SD<sup>2</sup>: Spatially resolved transcriptomics decon-volution through integration of spatial and dropout information
-![Pipeline](pipeline.png)
+![Pipeline](Pipeline.png)
  
 ## Training process 
 
