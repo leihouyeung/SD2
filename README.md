@@ -43,7 +43,7 @@ Here is an example of apply SD<sup>2</sup> to the PDAC datasets (generated from 
 
 
 ```
-### load the SD<sup>2</sup> utiles and the orginal PDAC data with its adjacent scRNA-seq data
+### load the SD2 utiles and the orginal PDAC data with its adjacent scRNA-seq data
 
 source(SD2_utiles.R)
 ST_data = readRDS('PDAC_GSM4100721.rds')
@@ -52,7 +52,7 @@ st_count = ST_data$st_count
 cell_type = ST_data$cell_type
 st_location = ST_data$st_location
 
-### apply the SD<sup>2</sup> to PDAC
+### apply the SD2 to PDAC
 
 SD2(as.matrix(sc_count),
     as.matrix(st_count),
