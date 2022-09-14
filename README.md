@@ -66,4 +66,4 @@ system(python train.py)
 
 ```
 
-
+Citation: Haoyang Li, Hanmin Li, Juexiao Zhou, Xin Gao, SD2: spatially resolved transcriptomics deconvolution through integration of dropout and spatial information, Bioinformatics, 2022;, btac605, [https://doi.org/10.1093/bioinformatics/btac605](https://doi.org/10.1093/bioinformatics/btac605)
